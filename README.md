@@ -1,0 +1,2 @@
+# hotelinventoryapp
+an angular application 
